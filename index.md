@@ -18,4 +18,3 @@ Welcome to my website! I am passionate about web development and creating amazin
 ---
 
 &copy; 2023 My Website. All rights reserved.
-
