@@ -99,10 +99,13 @@ p {
 
 .checklist {
   list-style-type: none;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
 }
 
 .checklist li {
-  margin-left: -20px;
+  margin: 0;
 }
 
 .checklist li input[type="checkbox"] {
